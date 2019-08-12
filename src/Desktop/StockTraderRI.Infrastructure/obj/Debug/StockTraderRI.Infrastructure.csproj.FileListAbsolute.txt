@@ -13,7 +13,6 @@ C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\bin\Debug\Micro
 C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
 C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\bin\Debug\Microsoft.Practices.ServiceLocation.xml
-C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.csprojAssemblyReference.cache
 C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.Properties.Resources.resources
 C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.csproj.GenerateResource.cache
 C:\dev\project\PrismWPF\src\Desktop\StockTraderRI.Infrastructure\obj\Debug\StockTraderRI.Infrastructure.csproj.CoreCompileInputs.cache

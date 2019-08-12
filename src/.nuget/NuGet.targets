@@ -111,8 +111,9 @@
             <Reference Include="System.Core" />
             <Using Namespace="System" />
             <Using Namespace="System.IO" />
-            <Using Namespace="System.Net" />
-            <Using Namespace="Microsoft.Build.Framework" />
+          <Using Namespace="System.Net" />
+          <Using Namespace="System.Runtime" />
+          <Using Namespace="Microsoft.Build.Framework" />
             <Using Namespace="Microsoft.Build.Utilities" />
             <Code Type="Fragment" Language="cs">
                 <![CDATA[
